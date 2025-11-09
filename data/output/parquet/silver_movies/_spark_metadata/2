@@ -1,0 +1,2 @@
+v1
+{"path":"file:///opt/spark-output/parquet/silver_movies/part-00000-01a386a1-144b-486e-8d2f-ea91e4e5ac39-c000.snappy.parquet","size":9963,"isDir":false,"modificationTime":1762652480248,"blockReplication":1,"blockSize":33554432,"action":"add"}
